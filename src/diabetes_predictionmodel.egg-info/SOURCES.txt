@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/data_ingestion.py
+src/data_preprocessing.py
+src/model_building.py
+src/diabetes_predictionmodel.egg-info/PKG-INFO
+src/diabetes_predictionmodel.egg-info/SOURCES.txt
+src/diabetes_predictionmodel.egg-info/dependency_links.txt
+src/diabetes_predictionmodel.egg-info/requires.txt
+src/diabetes_predictionmodel.egg-info/top_level.txt

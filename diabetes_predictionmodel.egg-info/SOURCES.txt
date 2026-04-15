@@ -1,0 +1,9 @@
+LICENSE
+README.md
+main.py
+pyproject.toml
+diabetes_predictionmodel.egg-info/PKG-INFO
+diabetes_predictionmodel.egg-info/SOURCES.txt
+diabetes_predictionmodel.egg-info/dependency_links.txt
+diabetes_predictionmodel.egg-info/requires.txt
+diabetes_predictionmodel.egg-info/top_level.txt
